@@ -1,0 +1,21 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+id_rsa
+id_ed25519
+
+# Local OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary and generated files
+__pycache__/
+.pytest_cache/
+.tmp/
+tmp/
