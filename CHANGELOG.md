@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+### Added
+
+- Complete Simplified Chinese README alongside the English README.
+
 ## [1.0.0] - 2026-09-22
 
 ### Added

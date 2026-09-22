@@ -1,5 +1,7 @@
 # Academic Writing Learner
 
+**Languages:** [English](README.md) | [简体中文](README.zh-CN.md)
+
 An evidence-bound Codex skill for learning transferable academic-writing decisions from reference papers and applying them to a user's manuscript without replacing the user's voice, terminology, scientific meaning, or LaTeX structure.
 
 Academic Writing Learner does not treat academic writing as synonym replacement. It learns the decision behind a reference-paper expression—its rhetorical role, evidence basis, appropriate conditions, and transfer limit—then uses that decision only when it fits the user's real scientific content.
